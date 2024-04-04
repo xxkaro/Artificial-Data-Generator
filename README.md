@@ -9,6 +9,7 @@ synthetic datasets.
 - Features
 - Usage
 - Project Structure & Libraries
+- Authors
 
 ## Description
 
@@ -103,4 +104,9 @@ File path is provided by the user.
 - `PeselGenerator.java`: Class for generating PESEL Number in accordance with established regulations.
 - `Generator.java`: Class that provides functionality to generate random personal data, 
 including names, surnames, addresses, and other details,
-with options to customize the gender and age constraints of the generated individuals. 
+with options to customize the gender and age constraints of the generated individuals.
+
+#### Authors
+[@kaminskaz](https://github.com/kaminskaz)
+[@nataliachoszczyk](https://github.com/nataliachoszczyk)
+[@DeptuchMateusz](https://github.com/DeptuchMateusz)

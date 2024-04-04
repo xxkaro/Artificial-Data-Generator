@@ -108,5 +108,9 @@ with options to customize the gender and age constraints of the generated indivi
 
 #### Authors
 [@kaminskaz](https://github.com/kaminskaz)
+
 [@nataliachoszczyk](https://github.com/nataliachoszczyk)
+
 [@DeptuchMateusz](https://github.com/DeptuchMateusz)
+
+[@karolinadunal](https://github.com/xxkaro)
